@@ -11,7 +11,8 @@ Root aplikasi yang mnehatur tema dan navigasi utama
         useMaterial3: true,
       ),
       home: const RowColumnPage(),
-    ); ```
+    );
+```
 
 ## Scaffold
 Sebagai struktur dasar halaman untuk tempat AppBar dan Body.
@@ -26,4 +27,5 @@ Sebagai struktur dasar halaman untuk tempat AppBar dan Body.
         . . .
 
       ),
-    ); ```
+    );
+```
