@@ -1,10 +1,11 @@
 # Widget
 
-Pada aplikasi ini terdapat beberapa jenis widget, diantaranya:
+Berikut rincian fungsional dari widget-widget yang digunakan dalam aplikasi ini:
 
 ## MaterialApp
-Root aplikasi yang mnehatur tema dan navigasi utama
-``` return MaterialApp(
+Root aplikasi yang mengatur tema dan navigasi utama. Pada widget ini didefinisikan identitas ``global ThemeData``  dan halaman utama yang akan ditampilkan pertama kali 
+```
+return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
@@ -16,7 +17,8 @@ Root aplikasi yang mnehatur tema dan navigasi utama
 
 ## Scaffold
 Sebagai struktur dasar halaman untuk tempat AppBar dan Body.
-``` return Scaffold(
+```
+return Scaffold(
       appBar: AppBar(
         
         . . .
