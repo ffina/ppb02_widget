@@ -36,6 +36,7 @@ return Scaffold(
 
 ## AppBar
 Menampilkan bar aplikasi pada bagian atas dengan judul "My First App" dengan warna belakang _orange_.
+
 <img width="322" height="72" alt="image" src="https://github.com/user-attachments/assets/8bb98437-7f77-41bf-b42c-09df801aca66" />
 
 ```
@@ -73,6 +74,7 @@ body: Column(
 
 ## Row
 Menyusun elemen-elemen secara horizontal ke samping, digunakan untuk menampilakn ikon kategori dan bagian kontrol counter.
+
 <img width="320" height="85" alt="image" src="https://github.com/user-attachments/assets/85866334-2c8c-47ec-b6db-6bfdc295d9de" />
 
 ```
@@ -137,6 +139,7 @@ Container(
 
 ## Center
 Memastikan kontenn berada tepat di tengah, pada kasus ini menmpatkan gambar di tengah area.
+
 <img width="319" height="334" alt="image" src="https://github.com/user-attachments/assets/1b409fc0-5ced-4803-83cf-f424e9ff67d7" />
 
 ```
@@ -168,6 +171,7 @@ child: AspectRatio(
 
 ## Image.network
 Menampilkan gambar secara dinamis dari URL internet.
+
 <img width="261" height="266" alt="image" src="https://github.com/user-attachments/assets/834bbdfc-0883-46a2-8fae-e83e8ac23443" />
 
 ```
