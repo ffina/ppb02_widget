@@ -154,6 +154,7 @@ child: Center(
 
 ## AspectRatio
 Menjaga perbandingan ukuran widget gambar tetap 1.0 agar berbentuk persegi.
+
 <img width="261" height="266" alt="image" src="https://github.com/user-attachments/assets/d9b58513-b5db-4897-964d-05f455a6b993" />
 
 ```
